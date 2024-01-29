@@ -140,3 +140,9 @@ body {
     color: #000;
     font-size: 4vmin;
 }
+footer
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
