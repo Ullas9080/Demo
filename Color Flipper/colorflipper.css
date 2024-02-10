@@ -3,8 +3,10 @@
     margin: 0%;
     padding: 0%;
 }
-
-
+body
+{
+    background-image:url("https://github.com/Ullas9080/Image/blob/main/img/1feb82a6-a569-4e40-8a49-b42418cbcdf1.jpg?raw=true")
+}
 #container
 {
     display: flex;
