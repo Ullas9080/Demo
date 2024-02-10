@@ -11,7 +11,7 @@
         <hr>
     </header>
 <main style="color: white;">
-    <img src="https://st3.cricketcountry.com/wp-content/uploads/2016/05/000_AW069.jpg" height="250">
+    <img src="./Programs/img/82virat" height="250">
     <h4>Audio</h4>
     <audio src="Ed_Sheeran_-_Perfect_NaijaMusic.Ng.mp3" controls loop></audio>
     <p ><small>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Optio nulla, 
